@@ -1,7 +1,7 @@
 <?php
-$datasource = "pgsql:host=177.44.36.94; port=1998; dbname=sis_car_aluguel";
+$datasource = "pgsql:host=localhost; port=5432; dbname=sis_car_aluguel";
 $user = "postgres";
-$pass = "bd123";
+$pass = "isaac020492.";
 $db = new PDO($datasource, $user, $pass);
 ?>
 
