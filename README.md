@@ -1,11 +1,6 @@
-# Sistema para Gerenciamento de Aluguel de Automóveis
+# Apuama - Sistema para Gerenciamento de Aluguel de Automóveis
 
-Este sistema foi desenvolvido como trabalho para a matéria de Administração e Gerência de Redes de Computadores da Universidade federal de Itajubá UNIFEI - COM241.
-
-#### Dupla:
-**Flavio Mota Gomes -- 2018005379**
-
-**Rafael Antunes Vieira -- 2018000980**
+Este sistema foi desenvolvido como trabalho para a matéria de Projeto Integrador em Programação Orientada a Objetos.
 
 ## Descrição do projeto:
 
